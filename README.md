@@ -1,17 +1,5 @@
-# stackrunner
+# lenny-intensifies 
 
-Inspired by the famous XKCD comic [Ineffective Sorts](https://xkcd.com/1185/).
+I have a co-worker named Lenny, I made this to embed his face in a gif.
 
-```
-StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.
-```
-
-This is a generalization of my work on [StackSort](https://github.com/buckley-w-david/stacksort).
-
-## Disclaimer
-
-Please do not actually use this.
-
-## Try it out
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/buckley-w-david/stackrunner/master)
+![](examples/yds-lenny.gif)
